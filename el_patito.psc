@@ -1,4 +1,3 @@
-
 Algoritmo Promedio
 Definir numero como Entero
 Definir num, suma, media Como Real
