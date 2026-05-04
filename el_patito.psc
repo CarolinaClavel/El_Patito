@@ -1,9 +1,26 @@
-//Calcula el promedio de una lista de N datos
 
 Algoritmo Promedio
 Definir numero como Entero
 Definir num, suma, media Como Real
 Definir seguir Como Cadena
+	Definir numero como Entero
+		Definir num, suma, media Como Real
+		Definir seguir Como Cadena
+		
+		Escribir "Ingrese la cantidad de datos:"
+		Escribir "Ingrese un numero"
+		Leer num1
+		Escribir "Ingrese un numero"
+		Leer num2
+		Escribir "Ingrese un numero"
+		Leer num3
+		suma <- suma + numero
+		media <- (1 + 2 + 3) / 3
+		
+		Escribir "La media es:", media
+	
+	Escribir "¿Quieres otra media? si/no"
+	Leer seguir
 	
 	Escribir "Ingrese la cantidad de datos:"
 	Repetir
