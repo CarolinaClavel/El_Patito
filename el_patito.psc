@@ -1,14 +1,17 @@
 //Calcula el promedio de una lista de N datos
 
 Algoritmo Promedio
+Definir numero como Entero
+Definir num, suma, media Como Real
+Definir seguir Como Cadena
 	
 	Escribir "Ingrese la cantidad de datos:"
 	Repetir
 		
 		Leer n
 		Si n<=0 Entonces
-			Escribir "El número debe ser positivo y distinto de cero."
-			Escribir "Introduzca un número válido."
+			Escribir "El nÃºmero debe ser positivo y distinto de cero."
+			Escribir "Introduzca un nÃºmero vÃ¡lido."
 		Fin Si
 		
 	Hasta Que n>0
